@@ -166,52 +166,53 @@ animation-iteration-count: infinite;
 }
 @keyframes eye{
 0%{
-    left: 450px;
-    top: 400px;
+    left: 800px;
+    top: 600px;
 }
 10%{
-    left: 550px;
-    top: 390px;
+    left:900px;
+    top: 600px;
 }
 20%{
-    left: 650px;
-    top: 400px;
+    left: 1000px;
+    top: 600px;
 }
 30%{
-    left: 750px;
-    top: 390px;
+    left: 1100px;
+    top: 600px;
 }
 40%{
-    left: 850px;
-    top: 400px;
+    left: 1200px;
+    top: 600px;
 }
 50%{
-    left: 950px;
-    top: 390px;
+    left: 1300px;
+    top: 600px;
 }
 60%{
-    left: 1050px;
-    top: 400px;
+    left: 1400px;
+    top: 600px;
 }
 70%{
-    left: 1150px;
-    top: 390px;
+    left: 1500px;
+    top: 600px;
 }
 80%{
-    left: 1250px;
-    top: 400px;
+    left: 1600px;
+    top: 600px;
 }
 90%{
-    left: 1350px;
-    top: 390px;
+    left: 1700px;
+    top: 600px;
 }
 100%{
-    left: 1450px;
-    top: 400px;
+    left: 1800px;
+    top: 600px;
 }
 }
 @keyframes ball{
 0%{
+    
     left: 600px;
 }
 10%{
